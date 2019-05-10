@@ -1,1 +1,3 @@
-Initial Foo Commit
+Initial Foo Commit 
+Second commit
+
